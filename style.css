@@ -1,0 +1,32 @@
+html{
+  font-family:Raleway
+
+}
+.divider{
+  border-bottom: 1px solid white;
+ position: absolute;
+  width:100%;
+
+}
+body{
+  background-color:#EFCFD4;
+  color:white;
+}
+.heart{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+    position: relative;
+  
+}
+.flex{
+  width: 100%;
+  max-width: 350px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+  text-align:center;
+}
+h2{
+  text-align: center;
+}
